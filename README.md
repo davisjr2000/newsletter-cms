@@ -1,4 +1,4 @@
-# Morning Brew CMS
+# Newsletter CMS
 
 This is a simple CMS for creating Newsletters and Stories.
 
